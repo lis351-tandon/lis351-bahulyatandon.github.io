@@ -1,0 +1,97 @@
+
+body {
+	width: 960px;
+	margin: 0 auto;
+	font-family: Verdana, sans-serif;
+	background-color: #b4d9db}
+
+nav {
+	padding: 10px;
+	margin: 5px;
+	background-color: #c95b5c;
+}
+
+li {
+	font-family: Garamond, sans-serif;
+	font-size: 24px;
+}
+.list-home {
+	background-color: #bd8898;
+	display: inline;
+	padding: 10px;
+	text-align: left;
+}
+
+dl{
+	background-color: #b0de7e;
+	text-align: center;	
+}
+
+h1 {
+	font-family:  Copperplate Gothic Light, sans-serif;
+	font-size: 36px;
+	text-align: center;
+	color: #6f3991;
+}
+
+h2 {
+	font-family:  Bodoni MT Black, sans-serif;
+	font-size: 26px;
+	text-align: center;
+}
+
+h3 {
+	font-family: Stencil, sans-serif;
+	font-size: 26px;
+	color: #264599;
+}
+section {
+	overflow: auto;
+	height: 100%;
+	margin: 5px;
+}
+
+main {
+	background-color: #adc299;
+	padding: 10px;
+	margin: 10px;
+	color: #6d7bab;
+}
+
+article {
+	background-color: #adc299;
+	padding: 10px;
+	margin: 10px;
+}
+.class-for-home {
+	color: #000000;
+	font-family: Playfair Display, serif;
+	font-size: 20px;
+}
+.class-for-topgames {
+	background-color: #8c8ce6;
+	width: 440px;
+	margin: 5px;
+	padding: 10px;
+	float: left;
+}
+
+p {
+	color: #325563;
+	font-family: Times New Roman, sans-serif;
+	font-size: 18px;
+}
+
+img {
+	object-fit: scale-down;
+	width:700px;
+    height:400px;
+}
+
+.bolded {
+	font-weight: bolder;
+}
+
+.emphasized {
+	font-style: italic;
+}
